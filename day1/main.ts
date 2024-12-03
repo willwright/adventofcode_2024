@@ -51,7 +51,7 @@ const calcSimilaritySingle = (needle: number, haystack: number[]): number => {
 };
 
 const main = async () => {
-  const data = await readInputFile("./input.txt");
+  const data = await readInputFile("./day1/input.txt");
 
   const sortedLeftArray = bubbleSort(data.leftArr);
   const sortedRightArray = bubbleSort(data.rightArr);

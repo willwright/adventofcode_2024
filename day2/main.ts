@@ -92,7 +92,7 @@ const isSafeReport = (report: Report): boolean => {
 };
 
 const main = async () => {
-  const data = await readInputFile("./input.txt");
+  const data = await readInputFile("./day2/input.txt");
 
   const safeReports = data.filter((report) => {
     if (isSafeReport(report)) {
