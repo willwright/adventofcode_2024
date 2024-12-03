@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "day1": "tsx day1/main.ts",
-    "day2": "tsx day2/main.ts"
+    "day2": "tsx day2/main.ts",
+    "day3": "tsx day3/main.ts"
   },
   "keywords": [],
   "author": "",
