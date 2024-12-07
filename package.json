@@ -8,7 +8,8 @@
     "day1": "tsx day1/main.ts",
     "day2": "tsx day2/main.ts",
     "day3": "tsx day3/main.ts",
-    "day4": "tsx day4/main.ts"
+    "day4": "tsx day4/main.ts",
+    "day5": "tsx day5/main.ts"
   },
   "keywords": [],
   "author": "",
